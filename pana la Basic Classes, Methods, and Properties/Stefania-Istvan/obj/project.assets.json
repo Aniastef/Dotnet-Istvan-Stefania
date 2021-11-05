@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stefania\\Desktop\\C#\\Basic Classes, Methods and Properties - pana la 21\\Stefania-Istvan\\Stefania-Istvan\\Stefania-Istvan.csproj",
+      "projectUniqueName": "C:\\Users\\Stefania\\Desktop\\C#\\git challenge\\proiecte\\Dotnet-Istvan-Stefania\\pana la Basic Classes, Methods, and Properties\\Stefania-Istvan\\Stefania-Istvan.csproj",
       "projectName": "Stefania-Istvan",
-      "projectPath": "C:\\Users\\Stefania\\Desktop\\C#\\Basic Classes, Methods and Properties - pana la 21\\Stefania-Istvan\\Stefania-Istvan\\Stefania-Istvan.csproj",
+      "projectPath": "C:\\Users\\Stefania\\Desktop\\C#\\git challenge\\proiecte\\Dotnet-Istvan-Stefania\\pana la Basic Classes, Methods, and Properties\\Stefania-Istvan\\Stefania-Istvan.csproj",
       "packagesPath": "C:\\Users\\Stefania\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stefania\\Desktop\\C#\\Basic Classes, Methods and Properties - pana la 21\\Stefania-Istvan\\Stefania-Istvan\\obj\\",
+      "outputPath": "C:\\Users\\Stefania\\Desktop\\C#\\git challenge\\proiecte\\Dotnet-Istvan-Stefania\\pana la Basic Classes, Methods, and Properties\\Stefania-Istvan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
