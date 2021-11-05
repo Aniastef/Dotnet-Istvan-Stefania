@@ -179,16 +179,145 @@ namespace SI
 
             //LISTS//
 
-            List<int> grades = new List<int>();
+            /*List<int> grades = new List<int>();
             grades.Add(5);
-            grades.Add(10);
+            grades.Add(10);*/
+
+            /*List<int> grades = new List<int>() { 5, 10 };
+            Console.WriteLine(grades[0]);
+
+            grades.Add(30);
+            Console.WriteLine(grades[2]);
+
+            grades.Insert(2, 15);
+
+            Console.WriteLine(grades[4]);
+            /*grades.Clear();//stergem tot
+            grades.Remove(10);
+            grades = new List<int>();*///mai bine facem asta decat sa stergem tot */
+
+            //List<int> grades = new List<int>() { 5, 10, 26, 34, 2, 23,26,26,26,26, 200 };//
+
+            /*if (grades.Contains(80))
+            {
+                Console.WriteLine("found");
+            }
+            if (grades.IndexOf(24)== -1) //-1 o sa dea true pentru ca nu avem 24 in lista si -1 INSEAMNA SA NU FIE ACOLO ca e negativ
+            {
+                Console.WriteLine("true");
+            }  
+            
+            if(grades.LastIndexOf(26)==9)//daca avem mai multi de 26 in lista ne ajuta ca ne arata unde apare ultima data
+            {
+                Console.WriteLine("true");
+            }*/
+
+            /*List<int> grades1 = new List<int>() { 5, 10, 26, 34, 2, 23, 26, 26, 26, 26, 200 };
+            List<int> grades2 = new List<int>() { 5, 10, 26, 34, 2, 23, 26, 26, 26, 26, 200 };
+            //if (grades1.Equals(grades2))//daca ai scrie asa ai compara faptul ca sunt ambele liste (nu compari valorile)
+               
+            if (grades1.SequenceEqual(grades2)) //aici compari valorile din liste
+            {
+                Console.Write("equal!");
+            }
+
+            List<int> grades = new List<int>() { 5, 10, 26, 34, 2, 23, 26, 26, 26, 26, 200 };
+
+            for(int i=0;i<grades.Count;i++)
+            {
+                grades[i] *= 2; 
+                Console.WriteLine(grades[i]); 
+            }
+            Console.WriteLine("vreau sa vad ce face foreach-ul");
+
+            foreach(int grade in grades) //foreach e buna pt reading elements not updating them 
+            {
+                
+                Console.WriteLine(grade);
+            }
+
+
+            Console.WriteLine("vreau sa vad ce face foreach-ul");
+
+
+            foreach (int grade in grades.ToArray())  //e mai cleeean asa cica
+            {
+                
+                Console.WriteLine(grade);
+            }*/
+
+            //foreach -> clean -> stie cand sa se opreasca -> safe
 
 
 
 
 
 
+            //video 52- liste de liste..//
+            /* List<List<int>> studentGrades = new List<List<int>>()
+             {
+                new List<int> { 5, 10, 26 },
+                 new List<int>{ 34,26,26},
+                 new List<int>{26,2,23,26,200}
+             };
 
+             foreach(List<int> grades in studentGrades.ToArray())
+             {
+                 foreach(int grade in grades)
+                 {
+                     Console.Write(grade + "\t");
+                 }
+                 Console.WriteLine();
+             } */
+
+
+
+
+            /* int[][] studentGrades =
+             {
+                 new int[]{5,10,26},
+                 new int[]{34,26,26},
+                 new int[]{26,2,23,26,200}
+             };
+
+             foreach(int[] grades in studentGrades)
+             {
+                 foreach(int grade in grades)
+                 {
+                     Console.Write(grade + "\t");
+
+                 }
+             } */
+
+
+
+
+            //converting an array to a list
+            /*List<int>stuff =new List<int>< int > (){5};
+            int[] myArr = stuff.ToArray();
+
+            int[][] studentGrades =
+        {
+                new int[]{5,10,26},
+                new int[]{34,26,26},
+                new int[]{26,2,23,26,200}
+            };
+            List<int> myList = studentGrades[0].ToList();*/
+
+
+
+            //sort,reverse a list//
+            List<int> stuff = new List<int>() { 5, 60, 3, 50 };
+
+          
+            stuff.Reverse();
+            stuff.Sort();
+            stuff.Reverse();
+
+            foreach (int s in stuff)
+            {
+                Console.WriteLine(s);
+            }
 
 
 
