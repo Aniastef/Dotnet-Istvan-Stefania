@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Stefania-Istvan/1.0.0": {
+        "runtime": {
+          "Stefania-Istvan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stefania-Istvan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

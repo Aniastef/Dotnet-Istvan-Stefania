@@ -1,0 +1,14 @@
+C:\Users\Stefania\Desktop\C#\Stefania-Istvan\Stefania-Istvan\bin\Debug\netcoreapp3.1\Stefania-Istvan.exe
+C:\Users\Stefania\Desktop\C#\Stefania-Istvan\Stefania-Istvan\bin\Debug\netcoreapp3.1\Stefania-Istvan.deps.json
+C:\Users\Stefania\Desktop\C#\Stefania-Istvan\Stefania-Istvan\bin\Debug\netcoreapp3.1\Stefania-Istvan.runtimeconfig.json
+C:\Users\Stefania\Desktop\C#\Stefania-Istvan\Stefania-Istvan\bin\Debug\netcoreapp3.1\Stefania-Istvan.runtimeconfig.dev.json
+C:\Users\Stefania\Desktop\C#\Stefania-Istvan\Stefania-Istvan\bin\Debug\netcoreapp3.1\Stefania-Istvan.dll
+C:\Users\Stefania\Desktop\C#\Stefania-Istvan\Stefania-Istvan\bin\Debug\netcoreapp3.1\Stefania-Istvan.pdb
+C:\Users\Stefania\Desktop\C#\Stefania-Istvan\Stefania-Istvan\obj\Debug\netcoreapp3.1\Stefania-Istvan.csproj.AssemblyReference.cache
+C:\Users\Stefania\Desktop\C#\Stefania-Istvan\Stefania-Istvan\obj\Debug\netcoreapp3.1\Stefania-Istvan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefania\Desktop\C#\Stefania-Istvan\Stefania-Istvan\obj\Debug\netcoreapp3.1\Stefania-Istvan.AssemblyInfoInputs.cache
+C:\Users\Stefania\Desktop\C#\Stefania-Istvan\Stefania-Istvan\obj\Debug\netcoreapp3.1\Stefania-Istvan.AssemblyInfo.cs
+C:\Users\Stefania\Desktop\C#\Stefania-Istvan\Stefania-Istvan\obj\Debug\netcoreapp3.1\Stefania-Istvan.csproj.CoreCompileInputs.cache
+C:\Users\Stefania\Desktop\C#\Stefania-Istvan\Stefania-Istvan\obj\Debug\netcoreapp3.1\Stefania-Istvan.dll
+C:\Users\Stefania\Desktop\C#\Stefania-Istvan\Stefania-Istvan\obj\Debug\netcoreapp3.1\Stefania-Istvan.pdb
+C:\Users\Stefania\Desktop\C#\Stefania-Istvan\Stefania-Istvan\obj\Debug\netcoreapp3.1\Stefania-Istvan.genruntimeconfig.cache
